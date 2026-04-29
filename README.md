@@ -1,1 +1,1 @@
-This is my AI-ML repository
+In this repository I am storing all my ML- model training codes & algorithms generated during my learning period itself. This would help me in the future if in case I need to revise/ refer back to the learnt knowledge as well as help those who are finding a way to test my knowlege on the corresponding topic.
